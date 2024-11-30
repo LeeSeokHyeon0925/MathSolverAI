@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## contents
 - [problems](./problems)
-  - [classfication_test](./diff_slover/get_problem.py)
+  - [classfication_test](./diff_solver/get_problem.py)
 - [learning](./learning)
 - [OCR](./OCR)
   - [OCR test](./OCR/OCR_test.py)
